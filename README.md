@@ -1,5 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header"/>
 
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Eu+sou+o+DEVil+Daddy;Sou+brasileiro+e+vascaíno;Sou+iniciante+em+front-end;Seja+bem-vindo!+😈👋)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=DomChaos&color=FF0000" alt="Profile views" /> </p>
