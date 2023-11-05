@@ -26,5 +26,4 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devildaddy54/?next=%2Fdomchaos%2F)
 
 
-![Snake animation](https://github.com/DomChaos/DomChaos/blob/output/github-contribution-grid-snake.svg)
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
