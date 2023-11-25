@@ -29,5 +29,5 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
 <div>
-  ![Snake animation](https://github.com/domc/domc/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/DomChaos/Domchaos/blob/output/github-contribution-grid-snake.svg)
 </div>
